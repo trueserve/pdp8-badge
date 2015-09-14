@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PDP8_PSoC5\pdp8_52xx">
+<ExpandedNodeIds>
+<v>PDP8_PSoC5</v>
+<v>PDP8_PSoC5\CPLDP8</v>
+<v>PDP8_PSoC5\CPLDP8\Header Files</v>
+<v>PDP8_PSoC5\CPLDP8\Source Files</v>
+<v>PDP8_PSoC5\pdp8_52xx</v>
+<v>PDP8_PSoC5\pdp8_52xx\TopDesign</v>
+<v>PDP8_PSoC5\pdp8_52xx\pdp8_52xx.cydwr</v>
+<v>PDP8_PSoC5\pdp8_52xx\Header Files</v>
+<v>PDP8_PSoC5\pdp8_52xx\Source Files</v>
+<v>PDP8_PSoC5\pdp8_52xx\Source Files\main.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD\CSD.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD\CSD.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD\CSD_CSHL.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD\CSD_CSHL.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD\CSD_INT.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD\CSD_Pins.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD\CSD_Pins.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD\CSD_PM.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD\CSD_SMS_Wrapper.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD\CSD_TunerHelper.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD\CSD_TunerHelper.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD_AMuxCH0</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD_AMuxCH0\CSD_AMuxCH0.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD_AMuxCH0\CSD_AMuxCH0.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD_CompCH0</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD_CompCH0\CSD_CompCH0.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD_CompCH0\CSD_CompCH0.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD_CompCH0\CSD_CompCH0_PM.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD_IdacCH0</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD_IdacCH0\CSD_IdacCH0.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD_IdacCH0\CSD_IdacCH0.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD_IdacCH0\CSD_IdacCH0_PM.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD_IntClock</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD_IntClock\CSD_IntClock.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\CSD_IntClock\CSD_IntClock.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\cm3gcc.ld</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\Cm3Iar.icf</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\Cm3RealView.scat</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\Cm3Start.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\core_cm3.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\core_cm3_psoc5.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\core_cmFunc.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\core_cmInstr.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\CyBootAsmGnu.s</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\CyBootAsmIar.s</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\CyBootAsmRv.s</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\CyDmac.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\CyDmac.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\CyFlash.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\CyFlash.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\CyLib.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\CyLib.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\cypins.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\cyPm.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\cyPm.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\CySpc.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\CySpc.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\cytypes.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cy_boot\cyutils.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\Disp_BrtPWM</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\Disp_BrtPWM\Disp_BrtPWM.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\Disp_BrtPWM\Disp_BrtPWM.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\Disp_BrtPWM\Disp_BrtPWM_PM.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\Disp_COM</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\Disp_COM\Disp_COM_aliases.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\Disp_COM_Sel</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\Disp_COM_Sel\Disp_COM_Sel.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\Disp_COM_Sel\Disp_COM_Sel.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\Disp_COM_Sel\Disp_COM_Sel_PM.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\ExtFP_DAT</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\ExtFP_DAT\ExtFP_DAT.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\ExtFP_DAT\ExtFP_DAT.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\ExtFP_DAT\ExtFP_DAT_aliases.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\LED_BrtPWM</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\LED_BrtPWM\LED_BrtPWM.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\LED_BrtPWM\LED_BrtPWM.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\LED_BrtPWM\LED_BrtPWM_PM.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_CS</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_CS\SD_CS.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_CS\SD_CS.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_CS\SD_CS_aliases.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_MISO</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_MISO\SD_MISO.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_MISO\SD_MISO.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_MISO\SD_MISO_aliases.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_MOSI</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_MOSI\SD_MOSI.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_MOSI\SD_MOSI.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_MOSI\SD_MOSI_aliases.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_SCLK</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_SCLK\SD_SCLK.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_SCLK\SD_SCLK.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_SCLK\SD_SCLK_aliases.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_SPI</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_SPI\SD_SPI.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_SPI\SD_SPI.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_SPI\SD_SPI_INT.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_SPI\SD_SPI_PM.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_SPI\SD_SPI_PVT.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_SPI_IntClock</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_SPI_IntClock\SD_SPI_IntClock.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SD_SPI_IntClock\SD_SPI_IntClock.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SW_Input_Ext</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SW_Input_Ext\SW_Input_Ext.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SW_Input_Ext\SW_Input_Ext.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SW_Input_Ext\SW_Input_Ext_aliases.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SW_Panel_OnOff</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SW_Panel_OnOff\SW_Panel_OnOff.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SW_Panel_OnOff\SW_Panel_OnOff.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SW_Panel_OnOff\SW_Panel_OnOff_aliases.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SwLED_BRT</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SwLED_BRT\SwLED_BRT.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SwLED_BRT\SwLED_BRT.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SwLED_BRT\SwLED_BRT_aliases.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SwLED_CLK</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SwLED_CLK\SwLED_CLK.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SwLED_CLK\SwLED_CLK.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SwLED_CLK\SwLED_CLK_aliases.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SwLED_DAT</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SwLED_DAT\SwLED_DAT.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SwLED_DAT\SwLED_DAT.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SwLED_DAT\SwLED_DAT_aliases.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SwLED_LAT</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SwLED_LAT\SwLED_LAT.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SwLED_LAT\SwLED_LAT.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\SwLED_LAT\SwLED_LAT_aliases.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\UART</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\UART\UART.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\UART\UART.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\UART\UART_BOOT.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\UART\UART_INT.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\UART\UART_PM.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\UART_IntClock</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\UART_IntClock\UART_IntClock.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\UART_IntClock\UART_IntClock.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART_audio.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART_audio.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART_boot.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART_cdc.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART_cdc.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART_cdc.inf</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART_cls.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART_descr.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART_drv.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART_episr.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART_hid.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART_hid.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART_midi.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART_midi.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART_pm.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART_pvt.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART_std.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART\USBUART_vnd.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART_Dm</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART_Dm\USBUART_Dm.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART_Dm\USBUART_Dm.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART_Dm\USBUART_Dm_aliases.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART_Dp</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART_Dp\USBUART_Dp.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART_Dp\USBUART_Dp.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART_Dp\USBUART_Dp_aliases.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART_ep1</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART_ep1\USBUART_ep1_dma.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART_ep1\USBUART_ep1_dma.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART_ep2</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART_ep2\USBUART_ep2_dma.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART_ep2\USBUART_ep2_dma.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART_ep3</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART_ep3\USBUART_ep3_dma.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\USBUART_ep3\USBUART_ep3_dma.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cydevice.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cydevice_trm.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cydevicegnu.inc</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cydevicegnu_trm.inc</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cydeviceiar.inc</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cydeviceiar_trm.inc</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cydevicerv.inc</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cydevicerv_trm.inc</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cydisabledsheets.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cyfitter.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cyfitter_cfg.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cyfitter_cfg.h</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cyfittergnu.inc</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cyfitteriar.inc</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cyfitterrv.inc</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\cymetadata.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source\PSoC5\project.h</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>PDP8_PSoC5</v>
+<v>PDP8_PSoC5\CPLDP8</v>
+<v>PDP8_PSoC5\CPLDP8\Header Files</v>
+<v>PDP8_PSoC5\CPLDP8\Source Files</v>
+<v>PDP8_PSoC5\pdp8_52xx</v>
+<v>PDP8_PSoC5\pdp8_52xx\TopDesign</v>
+<v>PDP8_PSoC5\pdp8_52xx\pdp8_52xx.cydwr</v>
+<v>PDP8_PSoC5\pdp8_52xx\Header Files</v>
+<v>PDP8_PSoC5\pdp8_52xx\Source Files</v>
+<v>PDP8_PSoC5\pdp8_52xx\Source Files\main.c</v>
+<v>PDP8_PSoC5\pdp8_52xx\Generated_Source</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PDP8_PSoC5\CPLDP8\CPLDP8">
+<ExpandedNodeIds>
+<v>PDP8_PSoC5</v>
+<v>PDP8_PSoC5\CPLDP8</v>
+<v>PDP8_PSoC5\CPLDP8\CPLDP8\CPLDP8.v</v>
+<v>PDP8_PSoC5\pdp8_52xx</v>
+<v>PDP8_PSoC5\pdp8_52xx\TopDesign</v>
+<v>PDP8_PSoC5\pdp8_52xx\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>PDP8_PSoC5</v>
+<v>PDP8_PSoC5\CPLDP8</v>
+<v>PDP8_PSoC5\CPLDP8\CPLDP8</v>
+<v>PDP8_PSoC5\pdp8_52xx</v>
+<v>PDP8_PSoC5\pdp8_52xx\TopDesign</v>
+<v>PDP8_PSoC5\pdp8_52xx\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="PDP8_PSoC5\pdp8_52xx">
+<ExpandedNodeIds>
+<v>PDP8_PSoC5</v>
+<v>PDP8_PSoC5\CPLDP8</v>
+<v>PDP8_PSoC5\CPLDP8\CortexM0</v>
+<v>PDP8_PSoC5\CPLDP8\CortexM0\ARM_GCC_484</v>
+<v>PDP8_PSoC5\CPLDP8\CortexM0\ARM_GCC_484\Debug</v>
+<v>PDP8_PSoC5\CPLDP8\CortexM0\ARM_GCC_484\Debug\CPLDP8.a</v>
+<v>PDP8_PSoC5\pdp8_52xx</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\Cm3Start.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\CSD.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\CSD_AMuxCH0.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\CSD_CompCH0.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\CSD_CompCH0_PM.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\CSD_CSHL.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\CSD_IdacCH0.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\CSD_IdacCH0_PM.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\CSD_INT.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\CSD_IntClock.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\CSD_Pins.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\CSD_PM.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\CSD_SMS_Wrapper.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\CSD_TunerHelper.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\CyDmac.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\CyFlash.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\CyLib.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\cymetadata.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\cyPm.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\CySpc.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\cyutils.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\Disp_BrtPWM.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\Disp_BrtPWM_PM.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\Disp_COM_Sel.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\Disp_COM_Sel_PM.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\ExtFP_DAT.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\LED_BrtPWM.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\LED_BrtPWM_PM.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\main.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\SD_CS.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\SD_MISO.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\SD_MOSI.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\SD_SCLK.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\SD_SPI.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\SD_SPI_INT.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\SD_SPI_IntClock.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\SD_SPI_PM.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\SW_Input_Ext.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\SW_Panel_OnOff.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\SwLED_BRT.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\SwLED_CLK.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\SwLED_DAT.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\SwLED_LAT.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\UART.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\UART_BOOT.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\UART_INT.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\UART_IntClock.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\UART_PM.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\USBUART.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\USBUART_audio.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\USBUART_boot.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\USBUART_cdc.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\USBUART_cls.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\USBUART_descr.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\USBUART_Dm.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\USBUART_Dp.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\USBUART_drv.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\USBUART_ep1_dma.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\USBUART_ep2_dma.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\USBUART_ep3_dma.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\USBUART_episr.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\USBUART_hid.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\USBUART_midi.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\USBUART_pm.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\USBUART_std.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\Listing Files\USBUART_vnd.lst</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\pdp8_52xx.elf</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\pdp8_52xx.hex</v>
+<v>PDP8_PSoC5\pdp8_52xx\CortexM3\ARM_GCC_484\Debug\pdp8_52xx.map</v>
+<v>PDP8_PSoC5\pdp8_52xx\pdp8_52xx.gpdsc</v>
+<v>PDP8_PSoC5\pdp8_52xx\pdp8_52xx.rpt</v>
+<v>PDP8_PSoC5\pdp8_52xx\pdp8_52xx_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>PDP8_PSoC5</v>
+<v>PDP8_PSoC5\CPLDP8</v>
+<v>PDP8_PSoC5\CPLDP8\CortexM0</v>
+<v>PDP8_PSoC5\CPLDP8\CortexM0\ARM_GCC_484</v>
+<v>PDP8_PSoC5\CPLDP8\CortexM0\ARM_GCC_484\Debug</v>
+<v>PDP8_PSoC5\CPLDP8\CortexM0\ARM_GCC_484\Debug\CPLDP8.a</v>
+<v>PDP8_PSoC5\pdp8_52xx</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>PDP8_PSoC5</v>
+<v>PDP8_PSoC5\pdp8_52xx</v>
+<v>PDP8_PSoC5\pdp8_52xx\PSoC 5 Architecture TRM</v>
+<v>PDP8_PSoC5\pdp8_52xx\CY8C52LP Family Datasheet</v>
+<v>PDP8_PSoC5\pdp8_52xx\System Reference Guides</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>PDP8_PSoC5</v>
+<v>PDP8_PSoC5\pdp8_52xx</v>
+<v>PDP8_PSoC5\pdp8_52xx\PSoC 5 Architecture TRM</v>
+<v>PDP8_PSoC5\pdp8_52xx\CY8C52LP Family Datasheet</v>
+<v>PDP8_PSoC5\pdp8_52xx\System Reference Guides</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs />
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
